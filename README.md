@@ -28,3 +28,7 @@ operations.
 
 ✓ Ensure transparency and accountability in fee collection and allocation of resources.
 
+KEY FEATURES
+
+    Admin Side:-
+        Student Registration and Management
