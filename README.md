@@ -31,4 +31,11 @@ operations.
 KEY FEATURES
 
     Admin Side:-
-        Student Registration and Management
+        Student Registration and Management.
+        Hostel Allocation (Booking).
+        Student Activate Time Measurement.
+        New Room Addition.
+        New Courses Addition.
+        Admin Profile Management.
+
+        
