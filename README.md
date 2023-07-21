@@ -58,7 +58,7 @@ TECHNOLOGY
 
 DEMOSTRATION
 
-*Student Side:
+    Student Side:
 
 Student Login Interface
 
