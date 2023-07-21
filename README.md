@@ -56,16 +56,12 @@ TECHNOLOGY
         Server
             ➢ WampServer
 
-DEMOSTRATION
+SIMPLE INTRO 
 
     Student Side:
 Student Login Interface
 
 ![Screenshot 2023-07-20 112249](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/dd147e14-f99f-48bf-9bd2-cc59b6349585)
-
-Student Page:
-
-![Screenshot 2023-07-20 112416](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/c68967bc-3e59-418c-bac7-67571de1988a)
 
 
     Admin Side:
@@ -73,9 +69,7 @@ Admin Login Interface
 
 ![Screenshot 2023-07-20 115302](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/3ead667f-7ce8-4bee-94fa-8754164441c3)
 
-Admin Page:
 
-![Screenshot 2023-07-20 115520](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/064f7484-4b42-4be3-9474-3975191d1e30)
 
 
 
