@@ -38,4 +38,11 @@ KEY FEATURES
         New Courses Addition.
         Admin Profile Management.
 
+    Students Side:- 
+        Students Profile Management.
+        Book Hostel and Meals.
+        Room Details.
+        Students Profile Management.
+
+
         
