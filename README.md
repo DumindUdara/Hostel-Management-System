@@ -70,7 +70,9 @@ Admin Login Interface
 ![Screenshot 2023-07-20 115302](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/3ead667f-7ce8-4bee-94fa-8754164441c3)
 
 
+Thank you 
 
+Happy coding 
 
 
 
