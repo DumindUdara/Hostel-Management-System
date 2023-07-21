@@ -53,13 +53,11 @@ TECHNOLOGY
             ➢ HTML
             ➢ Java Script
             ➢ CSS and SCSS
-            ➢ Bootstrap
-                
+            ➢ Bootstrap      
         Backend Technology
             ➢ PHP
-        Database
+        Database Technology
             ➢ MYSQL
-
         Server
             ➢ WampServer
 
