@@ -17,16 +17,11 @@ OBJECTIVE
 
 The primary objectives of the Hostel Management System are as follows:
 
-✓ Automate and centralize administrative tasks to reduce manual effort and paperwork.
-
-✓ Provide an easy-to-use interface for hostel staff and administrators to manage daily
-operations.
-
-✓ Improve the overall management and organization of hostel facilities.
-
-✓ Enhance communication between hostel administrators, staff, and students.
-
-✓ Ensure transparency and accountability in fee collection and allocation of resources.
+    ✓ Automate and centralize administrative tasks to reduce manual effort and paperwork.
+    ✓ Provide an easy-to-use interface for hostel staff and administrators to manage daily operations.
+    ✓ Improve the overall management and organization of hostel facilities.
+    ✓ Enhance communication between hostel administrators, staff, and students.
+    ✓ Ensure transparency and accountability in fee collection and allocation of resources.
 
 KEY FEATURES
 
