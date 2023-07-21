@@ -45,4 +45,21 @@ KEY FEATURES
         Students Profile Management.
 
 
-        
+
+TECHNOLOGY 
+
+    Programming Languages:-
+        Frontend Technology
+            ➢ HTML
+            ➢ Java Script
+            ➢ CSS and SCSS
+            ➢ Bootstrap
+                
+        Backend Technology
+            ➢ PHP
+        Database
+            ➢ MYSQL
+
+        Server
+            ➢ WampServer
+
