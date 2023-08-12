@@ -56,7 +56,7 @@ TECHNOLOGY
         Server
             ➢ WampServer
 
-SIMPLE INTRO 
+SIMPLE INTRO
 
     Student Side:
 Student Login Interface
