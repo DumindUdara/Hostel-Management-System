@@ -41,7 +41,7 @@ KEY FEATURES
 
 
 
-TECHNOLOGY 
+TECHNOLOGY
 
     Programming Languages:-
         Frontend Technology
