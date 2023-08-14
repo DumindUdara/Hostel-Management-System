@@ -13,7 +13,7 @@ registration, room allocation, meal management, and administrative tasks. The Ho
 Management System is developed to automate these processes and enhance communication
 between administrators and students, leading to improved efficiency and transparency
  
-OBJECTIVE
+OBJECTIVE 
  
 The primary objectives of the Hostel Management System are as follows:
 
