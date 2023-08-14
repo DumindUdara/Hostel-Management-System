@@ -12,7 +12,7 @@ Managing a hostel or dormitory can be a challenging task, involving multiple tas
 registration, room allocation, meal management, and administrative tasks. The Hostel
 Management System is developed to automate these processes and enhance communication
 between administrators and students, leading to improved efficiency and transparency
- 
+  
 OBJECTIVE  
  
 The primary objectives of the Hostel Management System are as follows:
