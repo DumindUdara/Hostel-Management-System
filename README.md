@@ -1,6 +1,6 @@
 # Hostel-Management-System
 
-INTRODUCTION
+INTRODUCTION 
 
 The Hostel Management System is a comprehensive software solution designed to streamline and
 automate various administrative tasks involved in managing a hostel or dormitory. This system is
