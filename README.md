@@ -14,7 +14,7 @@ Management System is developed to automate these processes and enhance communica
 between administrators and students, leading to improved efficiency and transparency
  
 OBJECTIVE
-
+ 
 The primary objectives of the Hostel Management System are as follows:
 
     ✓ Automate and centralize administrative tasks to reduce manual effort and paperwork.
