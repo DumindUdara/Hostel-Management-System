@@ -10,7 +10,7 @@ BACKGROUND
   
 Managing a hostel or dormitory can be a challenging task, involving multiple tasks such as student
 registration, room allocation, meal management, and administrative tasks. The Hostel
-Management System is developed to automate these processes and enhance communication
+Management System is developed to automate these processes and enhance communication 
 between administrators and students, leading to improved efficiency and transparency
  
 OBJECTIVE   
