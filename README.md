@@ -8,7 +8,7 @@ developed using PHP, HTML, JavaScript, CSS, SCSS and Bootstrap technologies to c
 
 BACKGROUND          
   
-Managing a hostel or dormitory can be a challenging task, involving multiple tasks such as student
+Managing a hostel or dormitory can be a challenging task, involving multiple tasks such as student 
 registration, room allocation, meal management, and administrative tasks. The Hostel
 Management System is developed to automate these processes and enhance communication  
 between administrators and students, leading to improved efficiency and transparency 
@@ -35,7 +35,7 @@ KEY FEATURES
 
     Students Side:- 
         Students Profile Management.
-        Book Hostel and Meals.
+        Book Hostel and Meals. 
         Room Details.
         Students Profile Management.
 
