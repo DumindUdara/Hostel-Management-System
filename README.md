@@ -59,7 +59,7 @@ TECHNOLOGY
 SIMPLE INTRO
 
     Student Side:
-Student Login Interface
+Student Login Interface 
 
 ![Screenshot 2023-07-20 112249](https://github.com/DumindUdara/Hostel-Management-System/assets/98957798/dd147e14-f99f-48bf-9bd2-cc59b6349585)
 
@@ -71,7 +71,7 @@ Admin Login Interface
 
 
 Thank you
-Happy coding
+Happy coding 
 
 
 
